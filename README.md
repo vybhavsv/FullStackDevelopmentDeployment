@@ -1,2 +1,2 @@
 # FullStackDevelopmentProjects
-Full-Stack Development related projects
+Full-Stack Development Related Projects
