@@ -1,2 +1,2 @@
-# FullStackDevelopmentDeployment
+# FullStackDevelopmentProjects
 Full-Stack Development related projects
